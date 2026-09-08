@@ -1,4 +1,4 @@
-# Tanay Biswas LinkTree
+# Personal LinkTree
 
 A personal LinkTree-style landing page. The page combines a portrait reveal effect, a technical grid overlay, social links, and a responsive hero layout.
 
